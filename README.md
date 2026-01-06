@@ -18,3 +18,11 @@ This repository contains **public-facing architecture, governance, and security 
 All implementation lives in a **private internal monorepo**.
 This repository is a **read-only mirror**.
 
+
+> ⚠️ **Read-Only Public Mirror**
+>
+> This repository contains public-facing architecture, governance, and security documentation only.
+> All implementation, trading logic, and execution systems live in a private internal monorepo.
+>
+> Pull requests may be closed without review.
+
