@@ -26,3 +26,18 @@ This repository is a **read-only mirror**.
 >
 > Pull requests may be closed without review.
 
+
+---
+
+## ⚠️ Read-Only Public Mirror
+
+This repository is intentionally **read-only**.
+
+- No feature development
+- No bug fixes
+- No roadmap tracking
+- No implementation code
+
+All production systems, trading logic, and models live in a **private internal monorepo**.
+
+Pull requests may be closed without review.
